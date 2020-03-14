@@ -1,10 +1,29 @@
 # Amazing-Known
 
-记录个人成长过程中的所遇所知所感。
+Rethinking all over the world by using gradient boosting!
 
-## Work&&Study
-1. 遇到的每一个问题的背后都是有原因的，要透过现象看本质 （From：pip安装某些包时网速很慢，因为用的是国外源，切换源到国内即可）
-2. 所谓的厉害，不过是25岁达到正常人30岁才能取得的成绩（From：flanker26+-安全总监，止介27+-高级安全专家）
+## Positive Samples
+
+
+
+## Negative Samples
+
+
+
+## Feature Importance
+
+
+
+## Model Function
+
+
+
+## Fine Tuning
+
+
+
+1. 遇到的每一个问题的背后都是有原因的，要透过现象看本质 
+2. 所谓的厉害，不过是25岁达到正常人30岁才能取得的成绩
 3. 效率>时长，当然时长也很重要
-4. 继承别人的代码和思想时，要充分考虑是否可信（From：一次公开bug的惨痛经历）
-5. 精细化学习关键技术点，经得住发问五个为什么（From：张欧在实习面试和实习述职期间给的建议）
+4. 继承别人的代码和思想时，要充分考虑是否可信
+5. 精细化学习关键技术点，经得住发问五个为什么
